@@ -1,3 +1,4 @@
+# Not All QR Codes Are Created Equal
 Wondering why your QR code expired? It shouldn't.
 For websites, Google Forms, event registrations, and most university-related uses, always use static QR codes. They are free, reliable, and continue working indefinitely because the destination link is stored directly in the QR code. A simple and free tool for generating static QR codes is:
 
