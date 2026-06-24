@@ -1,3 +1,4 @@
+# Stop Scanning the Same QR Code Every Week
 Did you know that you do not need to scan the QR code every time you attend the weekly Tahlil or other UNISSA events?
 Thanks to the DSC team, the UNISSA Attendance Management System is available as a Progressive Web App (PWA). This means you can install it on your phone and use it just like a regular mobile app.
 How to install it:
