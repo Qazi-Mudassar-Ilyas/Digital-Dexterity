@@ -1,3 +1,4 @@
+# Stop Taking Photos of Your Computer Screen
 Many people use their phone camera to capture and share information displayed on their computer screen. This often results in poor image quality, reflections, distortion, and unreadable text.
 
 Instead, press Windows + Shift + S to instantly capture a high-quality screenshot of any part of your screen. Once captured, simply press Ctrl + V to paste it directly into WhatsApp, PowerPoint, Word, email, or other applications.
