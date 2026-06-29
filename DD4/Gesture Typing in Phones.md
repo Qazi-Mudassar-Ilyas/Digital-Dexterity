@@ -1,3 +1,4 @@
+# Gesture Typing in Phones
 Type faster by sliding instead of tapping. Most modern smartphone keyboards support Gesture Typing (also called Glide Typing or Swipe Typing). Instead of tapping each letter, place your finger on the first letter of a word and slide continuously across the remaining letters without lifting your finger. The keyboard automatically predicts and inserts the intended word.
 Gesture typing is usually enabled by default on both Android phones and iPhones and works for all languages. If it is disabled, open your keyboard settings and look for options such as Glide Typing, Swipe to Type, or Slide to Type, then turn the feature on.
 Once you become comfortable with gesture typing, you will likely find it significantly faster and more convenient than traditional tap typing, especially for one-handed use.
