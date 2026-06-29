@@ -1,4 +1,3 @@
-# Digital Dexterity #5
 # Save Time with AutoCorrect in Microsoft Word
 
 Have you ever thought about how much time you spend typing the same information repeatedly? Your full name, university name, email address, office address, or even common phrases like "Thank you very much" can add up to hundreds of unnecessary keystrokes every day. Microsoft Word's AutoCorrect feature can eliminate this repetitive typing.
