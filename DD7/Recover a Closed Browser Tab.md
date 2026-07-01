@@ -1,9 +1,12 @@
 # Recover a Closed Browser Tab 
-Accidentally closed an important browser tab? Don't search for it again. Simply press Ctrl + Shift + T to instantly reopen the most recently closed tab.
-This shortcut works in most modern browsers, including Google Chrome, Microsoft Edge, Mozilla Firefox, Brave, and Opera.
-## Windows
-•	Press Ctrl + Shift + T 
-## macOS
-•	Press ⌘ + Shift + T 
-## Pro Tip: 
-Keep pressing the shortcut repeatedly to restore multiple previously closed tabs in the order they were closed. This also works after reopening your browser, provided the browsing session has not been cleared.
+## The Idea
+Recover a closed browser tab instantly instead of searching for the webpage again.
+## Why It Matters
+Everyone accidentally closes a tab at some point. This shortcut restores it in seconds, helping you continue your work without interrupting your flow or trying to remember what page you had open.
+## Try It
+Windows: Press Ctrl + Shift + T
+macOS: Press ⌘ + Shift + T
+## Pro Tip
+Keep pressing the shortcut to restore multiple closed tabs, one by one, in the reverse order they were closed. In most browsers, it can even recover tabs after restarting the browser, as long as your browsing session has not been cleared.
+## Works On
+Google Chrome, Microsoft Edge, Mozilla Firefox, Brave, Opera, and most other Chromium-based browsers.
