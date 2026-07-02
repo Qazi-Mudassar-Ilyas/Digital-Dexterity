@@ -1,7 +1,7 @@
 # Windows Clipboard History 
 ## The Idea
 Most people copy and paste one item at a time. When you need to move multiple items between different applications, this quickly becomes slow and repetitive.
-Why It Matters
+## Why It Matters
 Windows Clipboard History saves time and reduces repetitive copying. It is especially useful when preparing reports, presentations, or research documents.
 ## Try It
 1.	Press Windows + V. 
