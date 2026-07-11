@@ -7,10 +7,10 @@ When people feel rushed, they are more likely to click malicious links, open inf
 
 ## Try It
 The next time you receive an unexpected message asking you to act immediately:
-• Pause before clicking any links or downloading attachments.
-• Verify the sender's email address or social media account.
-• Visit the organization's official website or app directly instead of using the provided link.
-• If in doubt, contact the organization through its official contact channels.
+1. Pause before clicking any links or downloading attachments.
+2. Verify the sender's email address or social media account.
+3. Visit the organization's official website or app directly instead of using the provided link.
+4. If in doubt, contact the organization through its official contact channels.
 
 ## Pro Tip
 Scammers want you to react quickly. Genuine organizations rarely require immediate action through unsolicited messages. If a message creates panic or demands urgent action, treat it with extra caution.
