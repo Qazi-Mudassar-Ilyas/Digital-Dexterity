@@ -8,17 +8,18 @@ When working with long lists or wide tables, column headings and row labels quic
 
 ## Try It
 ## To freeze the top row:
-• Go to the View tab.
-• Click Freeze Panes.
-• Select Freeze Top Row.
+1. Go to the View tab.
+2. Click Freeze Panes.
+3. Select Freeze Top Row.
 
 ## To freeze the first column:
-• Go to View → Freeze Panes.
-• Select Freeze First Column.
+1. Go to View → Freeze Panes.
+2. Select Freeze First Column.
 
 ## To freeze both rows and columns:
-• Select the cell immediately below the row(s) and to the right of the column(s) you want to keep visible.
-• Go to View → Freeze Panes → Freeze Panes.
+1. Select the cell immediately below the row(s) and to the right of the column(s) you want to keep visible.
+2. Go to View → Freeze Panes → Freeze Panes.
+
 For example, selecting cell B2 freezes Row 1 and Column A. Selecting C3 freezes Rows 1–2 and Columns A–B.
 
 ## Watch the Demo: 
