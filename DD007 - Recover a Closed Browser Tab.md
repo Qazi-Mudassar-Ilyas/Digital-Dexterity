@@ -8,6 +8,7 @@ Everyone accidentally closes a tab at some point. This shortcut restores it in s
 
 ## Try It
 Windows: Press Ctrl + Shift + T
+
 macOS: Press ⌘ + Shift + T
 
 ## Pro Tip
