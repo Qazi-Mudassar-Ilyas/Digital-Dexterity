@@ -1,4 +1,4 @@
-# Stop taking photos of your computer screen
+# Stop Taking Photos of Your Computer Screen
 
 ## The Idea
 Stop taking photos of your computer screen with your phone when sharing on-screen information. Use a screenshot instead.
