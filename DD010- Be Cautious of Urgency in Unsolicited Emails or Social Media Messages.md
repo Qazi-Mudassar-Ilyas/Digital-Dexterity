@@ -1,4 +1,4 @@
-#Be Cautious of "Urgency" in Unsolicited Emails or Social Media Messages
+# Be Cautious of "Urgency" in Unsolicited Emails or Social Media Messages
 
 ## The Idea
 Cybercriminals often create a false sense of urgency to pressure people into acting without thinking. Messages claiming that your account will be suspended, you have won a prize, or immediate action is required are common tactics used in phishing and online scams.
