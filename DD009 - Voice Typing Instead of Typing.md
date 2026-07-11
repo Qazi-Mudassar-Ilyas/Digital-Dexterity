@@ -1,4 +1,4 @@
-# Digital Dexterity #9 Voice Typing Instead of Typing
+# Voice Typing Instead of Typing
 ## The Idea
 Instead of typing, speak naturally and let your device convert your speech into text. Most modern computers, tablets, and smartphones include built-in voice typing or dictation.
 
